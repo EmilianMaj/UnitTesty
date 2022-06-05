@@ -1,0 +1,60 @@
+c:\Users\Lodomir\Desktop\unit-testing-using-mstest\PrimeService\bin\Debug\netstandard2.0\PrimeService.deps.json
+c:\Users\Lodomir\Desktop\unit-testing-using-mstest\PrimeService\bin\Debug\netstandard2.0\PrimeService.dll
+c:\Users\Lodomir\Desktop\unit-testing-using-mstest\PrimeService\bin\Debug\netstandard2.0\PrimeService.pdb
+c:\Users\Lodomir\Desktop\unit-testing-using-mstest\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.AssemblyReference.cache
+c:\Users\Lodomir\Desktop\unit-testing-using-mstest\PrimeService\obj\Debug\netstandard2.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Lodomir\Desktop\unit-testing-using-mstest\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfoInputs.cache
+c:\Users\Lodomir\Desktop\unit-testing-using-mstest\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfo.cs
+c:\Users\Lodomir\Desktop\unit-testing-using-mstest\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.CoreCompileInputs.cache
+c:\Users\Lodomir\Desktop\unit-testing-using-mstest\PrimeService\obj\Debug\netstandard2.0\PrimeService.dll
+c:\Users\Lodomir\Desktop\unit-testing-using-mstest\PrimeService\obj\Debug\netstandard2.0\PrimeService.pdb
+C:\Users\Lodomir\Desktop\Testy\unit-testing-using-mstest\PrimeService\bin\Debug\netstandard2.0\PrimeService.deps.json
+C:\Users\Lodomir\Desktop\Testy\unit-testing-using-mstest\PrimeService\bin\Debug\netstandard2.0\PrimeService.dll
+C:\Users\Lodomir\Desktop\Testy\unit-testing-using-mstest\PrimeService\bin\Debug\netstandard2.0\PrimeService.pdb
+C:\Users\Lodomir\Desktop\Testy\unit-testing-using-mstest\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.AssemblyReference.cache
+C:\Users\Lodomir\Desktop\Testy\unit-testing-using-mstest\PrimeService\obj\Debug\netstandard2.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lodomir\Desktop\Testy\unit-testing-using-mstest\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfoInputs.cache
+C:\Users\Lodomir\Desktop\Testy\unit-testing-using-mstest\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfo.cs
+C:\Users\Lodomir\Desktop\Testy\unit-testing-using-mstest\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Users\Lodomir\Desktop\Testy\unit-testing-using-mstest\PrimeService\obj\Debug\netstandard2.0\PrimeService.dll
+C:\Users\Lodomir\Desktop\Testy\unit-testing-using-mstest\PrimeService\obj\Debug\netstandard2.0\PrimeService.pdb
+c:\Users\Lodomir\Desktop\MSUnit\PrimeService\bin\Debug\netstandard2.0\PrimeService.deps.json
+c:\Users\Lodomir\Desktop\MSUnit\PrimeService\bin\Debug\netstandard2.0\PrimeService.dll
+c:\Users\Lodomir\Desktop\MSUnit\PrimeService\bin\Debug\netstandard2.0\PrimeService.pdb
+c:\Users\Lodomir\Desktop\MSUnit\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.AssemblyReference.cache
+c:\Users\Lodomir\Desktop\MSUnit\PrimeService\obj\Debug\netstandard2.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Lodomir\Desktop\MSUnit\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfoInputs.cache
+c:\Users\Lodomir\Desktop\MSUnit\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfo.cs
+c:\Users\Lodomir\Desktop\MSUnit\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.CoreCompileInputs.cache
+c:\Users\Lodomir\Desktop\MSUnit\PrimeService\obj\Debug\netstandard2.0\PrimeService.dll
+c:\Users\Lodomir\Desktop\MSUnit\PrimeService\obj\Debug\netstandard2.0\PrimeService.pdb
+c:\Users\Lodomir\Desktop\lol-MSUnit\PrimeService\bin\Debug\netstandard2.0\PrimeService.deps.json
+c:\Users\Lodomir\Desktop\lol-MSUnit\PrimeService\bin\Debug\netstandard2.0\PrimeService.dll
+c:\Users\Lodomir\Desktop\lol-MSUnit\PrimeService\bin\Debug\netstandard2.0\PrimeService.pdb
+c:\Users\Lodomir\Desktop\lol-MSUnit\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.AssemblyReference.cache
+c:\Users\Lodomir\Desktop\lol-MSUnit\PrimeService\obj\Debug\netstandard2.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Lodomir\Desktop\lol-MSUnit\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfoInputs.cache
+c:\Users\Lodomir\Desktop\lol-MSUnit\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfo.cs
+c:\Users\Lodomir\Desktop\lol-MSUnit\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.CoreCompileInputs.cache
+c:\Users\Lodomir\Desktop\lol-MSUnit\PrimeService\obj\Debug\netstandard2.0\PrimeService.dll
+c:\Users\Lodomir\Desktop\lol-MSUnit\PrimeService\obj\Debug\netstandard2.0\PrimeService.pdb
+c:\Users\Lodomir\Desktop\WSB\WSB - SEMESTRY\Semestr 4\Inzynieria Oprogramowania\kozłowski\TestyUnit\Moodle\MSUnit\PrimeService\bin\Debug\netstandard2.0\PrimeService.deps.json
+c:\Users\Lodomir\Desktop\WSB\WSB - SEMESTRY\Semestr 4\Inzynieria Oprogramowania\kozłowski\TestyUnit\Moodle\MSUnit\PrimeService\bin\Debug\netstandard2.0\PrimeService.dll
+c:\Users\Lodomir\Desktop\WSB\WSB - SEMESTRY\Semestr 4\Inzynieria Oprogramowania\kozłowski\TestyUnit\Moodle\MSUnit\PrimeService\bin\Debug\netstandard2.0\PrimeService.pdb
+c:\Users\Lodomir\Desktop\WSB\WSB - SEMESTRY\Semestr 4\Inzynieria Oprogramowania\kozłowski\TestyUnit\Moodle\MSUnit\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.AssemblyReference.cache
+c:\Users\Lodomir\Desktop\WSB\WSB - SEMESTRY\Semestr 4\Inzynieria Oprogramowania\kozłowski\TestyUnit\Moodle\MSUnit\PrimeService\obj\Debug\netstandard2.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Lodomir\Desktop\WSB\WSB - SEMESTRY\Semestr 4\Inzynieria Oprogramowania\kozłowski\TestyUnit\Moodle\MSUnit\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfoInputs.cache
+c:\Users\Lodomir\Desktop\WSB\WSB - SEMESTRY\Semestr 4\Inzynieria Oprogramowania\kozłowski\TestyUnit\Moodle\MSUnit\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfo.cs
+c:\Users\Lodomir\Desktop\WSB\WSB - SEMESTRY\Semestr 4\Inzynieria Oprogramowania\kozłowski\TestyUnit\Moodle\MSUnit\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.CoreCompileInputs.cache
+c:\Users\Lodomir\Desktop\WSB\WSB - SEMESTRY\Semestr 4\Inzynieria Oprogramowania\kozłowski\TestyUnit\Moodle\MSUnit\PrimeService\obj\Debug\netstandard2.0\PrimeService.dll
+c:\Users\Lodomir\Desktop\WSB\WSB - SEMESTRY\Semestr 4\Inzynieria Oprogramowania\kozłowski\TestyUnit\Moodle\MSUnit\PrimeService\obj\Debug\netstandard2.0\PrimeService.pdb
+c:\Users\Lodomir\Desktop\Emilian Maj\3. UnitTests\MSUnit\PrimeService\bin\Debug\netstandard2.0\PrimeService.deps.json
+c:\Users\Lodomir\Desktop\Emilian Maj\3. UnitTests\MSUnit\PrimeService\bin\Debug\netstandard2.0\PrimeService.dll
+c:\Users\Lodomir\Desktop\Emilian Maj\3. UnitTests\MSUnit\PrimeService\bin\Debug\netstandard2.0\PrimeService.pdb
+c:\Users\Lodomir\Desktop\Emilian Maj\3. UnitTests\MSUnit\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.AssemblyReference.cache
+c:\Users\Lodomir\Desktop\Emilian Maj\3. UnitTests\MSUnit\PrimeService\obj\Debug\netstandard2.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Lodomir\Desktop\Emilian Maj\3. UnitTests\MSUnit\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfoInputs.cache
+c:\Users\Lodomir\Desktop\Emilian Maj\3. UnitTests\MSUnit\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfo.cs
+c:\Users\Lodomir\Desktop\Emilian Maj\3. UnitTests\MSUnit\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.CoreCompileInputs.cache
+c:\Users\Lodomir\Desktop\Emilian Maj\3. UnitTests\MSUnit\PrimeService\obj\Debug\netstandard2.0\PrimeService.dll
+c:\Users\Lodomir\Desktop\Emilian Maj\3. UnitTests\MSUnit\PrimeService\obj\Debug\netstandard2.0\PrimeService.pdb
