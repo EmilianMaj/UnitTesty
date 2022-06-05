@@ -1,0 +1,36 @@
+C:\Users\Lodomir\Desktop\XUnit\unit-testing-using-dotnet-test\GeneratorService\bin\Debug\net6.0\GeneratorService.deps.json
+C:\Users\Lodomir\Desktop\XUnit\unit-testing-using-dotnet-test\GeneratorService\bin\Debug\net6.0\GeneratorService.dll
+C:\Users\Lodomir\Desktop\XUnit\unit-testing-using-dotnet-test\GeneratorService\bin\Debug\net6.0\GeneratorService.pdb
+C:\Users\Lodomir\Desktop\XUnit\unit-testing-using-dotnet-test\GeneratorService\obj\Debug\net6.0\GeneratorService.csproj.AssemblyReference.cache
+C:\Users\Lodomir\Desktop\XUnit\unit-testing-using-dotnet-test\GeneratorService\obj\Debug\net6.0\GeneratorService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lodomir\Desktop\XUnit\unit-testing-using-dotnet-test\GeneratorService\obj\Debug\net6.0\GeneratorService.AssemblyInfoInputs.cache
+C:\Users\Lodomir\Desktop\XUnit\unit-testing-using-dotnet-test\GeneratorService\obj\Debug\net6.0\GeneratorService.AssemblyInfo.cs
+C:\Users\Lodomir\Desktop\XUnit\unit-testing-using-dotnet-test\GeneratorService\obj\Debug\net6.0\GeneratorService.csproj.CoreCompileInputs.cache
+C:\Users\Lodomir\Desktop\XUnit\unit-testing-using-dotnet-test\GeneratorService\obj\Debug\net6.0\GeneratorService.dll
+C:\Users\Lodomir\Desktop\XUnit\unit-testing-using-dotnet-test\GeneratorService\obj\Debug\net6.0\refint\GeneratorService.dll
+C:\Users\Lodomir\Desktop\XUnit\unit-testing-using-dotnet-test\GeneratorService\obj\Debug\net6.0\GeneratorService.pdb
+C:\Users\Lodomir\Desktop\XUnit\unit-testing-using-dotnet-test\GeneratorService\obj\Debug\net6.0\ref\GeneratorService.dll
+c:\Users\Lodomir\Desktop\WSB\WSB - SEMESTRY\Semestr 4\Inzynieria Oprogramowania\kozłowski\TestyUnit\Moodle\XUnit\unit-testing-using-dotnet-test\GeneratorService\bin\Debug\net6.0\GeneratorService.deps.json
+c:\Users\Lodomir\Desktop\WSB\WSB - SEMESTRY\Semestr 4\Inzynieria Oprogramowania\kozłowski\TestyUnit\Moodle\XUnit\unit-testing-using-dotnet-test\GeneratorService\bin\Debug\net6.0\GeneratorService.dll
+c:\Users\Lodomir\Desktop\WSB\WSB - SEMESTRY\Semestr 4\Inzynieria Oprogramowania\kozłowski\TestyUnit\Moodle\XUnit\unit-testing-using-dotnet-test\GeneratorService\bin\Debug\net6.0\GeneratorService.pdb
+c:\Users\Lodomir\Desktop\WSB\WSB - SEMESTRY\Semestr 4\Inzynieria Oprogramowania\kozłowski\TestyUnit\Moodle\XUnit\unit-testing-using-dotnet-test\GeneratorService\obj\Debug\net6.0\GeneratorService.csproj.AssemblyReference.cache
+c:\Users\Lodomir\Desktop\WSB\WSB - SEMESTRY\Semestr 4\Inzynieria Oprogramowania\kozłowski\TestyUnit\Moodle\XUnit\unit-testing-using-dotnet-test\GeneratorService\obj\Debug\net6.0\GeneratorService.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Lodomir\Desktop\WSB\WSB - SEMESTRY\Semestr 4\Inzynieria Oprogramowania\kozłowski\TestyUnit\Moodle\XUnit\unit-testing-using-dotnet-test\GeneratorService\obj\Debug\net6.0\GeneratorService.AssemblyInfoInputs.cache
+c:\Users\Lodomir\Desktop\WSB\WSB - SEMESTRY\Semestr 4\Inzynieria Oprogramowania\kozłowski\TestyUnit\Moodle\XUnit\unit-testing-using-dotnet-test\GeneratorService\obj\Debug\net6.0\GeneratorService.AssemblyInfo.cs
+c:\Users\Lodomir\Desktop\WSB\WSB - SEMESTRY\Semestr 4\Inzynieria Oprogramowania\kozłowski\TestyUnit\Moodle\XUnit\unit-testing-using-dotnet-test\GeneratorService\obj\Debug\net6.0\GeneratorService.csproj.CoreCompileInputs.cache
+c:\Users\Lodomir\Desktop\WSB\WSB - SEMESTRY\Semestr 4\Inzynieria Oprogramowania\kozłowski\TestyUnit\Moodle\XUnit\unit-testing-using-dotnet-test\GeneratorService\obj\Debug\net6.0\GeneratorService.dll
+c:\Users\Lodomir\Desktop\WSB\WSB - SEMESTRY\Semestr 4\Inzynieria Oprogramowania\kozłowski\TestyUnit\Moodle\XUnit\unit-testing-using-dotnet-test\GeneratorService\obj\Debug\net6.0\refint\GeneratorService.dll
+c:\Users\Lodomir\Desktop\WSB\WSB - SEMESTRY\Semestr 4\Inzynieria Oprogramowania\kozłowski\TestyUnit\Moodle\XUnit\unit-testing-using-dotnet-test\GeneratorService\obj\Debug\net6.0\GeneratorService.pdb
+c:\Users\Lodomir\Desktop\WSB\WSB - SEMESTRY\Semestr 4\Inzynieria Oprogramowania\kozłowski\TestyUnit\Moodle\XUnit\unit-testing-using-dotnet-test\GeneratorService\obj\Debug\net6.0\ref\GeneratorService.dll
+c:\Users\Lodomir\Desktop\Emilian Maj\3. UnitTests\XUnit\unit-testing-using-dotnet-test\GeneratorService\bin\Debug\net6.0\GeneratorService.deps.json
+c:\Users\Lodomir\Desktop\Emilian Maj\3. UnitTests\XUnit\unit-testing-using-dotnet-test\GeneratorService\bin\Debug\net6.0\GeneratorService.dll
+c:\Users\Lodomir\Desktop\Emilian Maj\3. UnitTests\XUnit\unit-testing-using-dotnet-test\GeneratorService\bin\Debug\net6.0\GeneratorService.pdb
+c:\Users\Lodomir\Desktop\Emilian Maj\3. UnitTests\XUnit\unit-testing-using-dotnet-test\GeneratorService\obj\Debug\net6.0\GeneratorService.csproj.AssemblyReference.cache
+c:\Users\Lodomir\Desktop\Emilian Maj\3. UnitTests\XUnit\unit-testing-using-dotnet-test\GeneratorService\obj\Debug\net6.0\GeneratorService.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Lodomir\Desktop\Emilian Maj\3. UnitTests\XUnit\unit-testing-using-dotnet-test\GeneratorService\obj\Debug\net6.0\GeneratorService.AssemblyInfoInputs.cache
+c:\Users\Lodomir\Desktop\Emilian Maj\3. UnitTests\XUnit\unit-testing-using-dotnet-test\GeneratorService\obj\Debug\net6.0\GeneratorService.AssemblyInfo.cs
+c:\Users\Lodomir\Desktop\Emilian Maj\3. UnitTests\XUnit\unit-testing-using-dotnet-test\GeneratorService\obj\Debug\net6.0\GeneratorService.csproj.CoreCompileInputs.cache
+c:\Users\Lodomir\Desktop\Emilian Maj\3. UnitTests\XUnit\unit-testing-using-dotnet-test\GeneratorService\obj\Debug\net6.0\GeneratorService.dll
+c:\Users\Lodomir\Desktop\Emilian Maj\3. UnitTests\XUnit\unit-testing-using-dotnet-test\GeneratorService\obj\Debug\net6.0\refint\GeneratorService.dll
+c:\Users\Lodomir\Desktop\Emilian Maj\3. UnitTests\XUnit\unit-testing-using-dotnet-test\GeneratorService\obj\Debug\net6.0\GeneratorService.pdb
+c:\Users\Lodomir\Desktop\Emilian Maj\3. UnitTests\XUnit\unit-testing-using-dotnet-test\GeneratorService\obj\Debug\net6.0\ref\GeneratorService.dll
